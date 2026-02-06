@@ -71,6 +71,13 @@ Ao final da análise, foi elaborado um **relatório analítico**, apresentando i
 - Comunicação de resultados com foco em negócio  
 
 ---
+## ▶️ Como Executar o Projeto
+
+1. Abra o arquivo `ChallengePython.ipynb`
+2. Execute as células sequencialmente no Google Colab ou Jupyter Notebook
+3. Certifique-se de que os arquivos CSV estejam no mesmo diretório
+   
+---
 
 ## 📌 Observação
 
